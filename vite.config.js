@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/bharatquiz/'   // 👈 repo ka naam yaha likhna
+  base: '/bharatquiz/'  // ⚠️ repo ka exact naam
 })
